@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fake-wheel/static/css/main.d9339fe5.css",
+    "main.js": "/fake-wheel/static/js/main.29fc696d.js",
+    "static/js/453.2dfd3d81.chunk.js": "/fake-wheel/static/js/453.2dfd3d81.chunk.js",
+    "index.html": "/fake-wheel/index.html",
+    "main.d9339fe5.css.map": "/fake-wheel/static/css/main.d9339fe5.css.map",
+    "main.29fc696d.js.map": "/fake-wheel/static/js/main.29fc696d.js.map",
+    "453.2dfd3d81.chunk.js.map": "/fake-wheel/static/js/453.2dfd3d81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9339fe5.css",
+    "static/js/main.29fc696d.js"
+  ]
+}
