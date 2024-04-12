@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+
+main {
+  margin: 100px;
+  padding: 50px;
+  background-color: darkgray;
+  width: fit-content;
+  margin-inline: auto;
+  border-radius: 16px;
+}
+form {
+  padding: 20px;
+}
+
+button {
+  margin: 20px;
+}
